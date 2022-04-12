@@ -1,0 +1,15 @@
+C:\Users\Rob\Desktop\5thsem\csharp\Project2_RobertoAmaral\bin\Debug\net6.0\Project2_RobertoAmaral.exe
+C:\Users\Rob\Desktop\5thsem\csharp\Project2_RobertoAmaral\bin\Debug\net6.0\Project2_RobertoAmaral.deps.json
+C:\Users\Rob\Desktop\5thsem\csharp\Project2_RobertoAmaral\bin\Debug\net6.0\Project2_RobertoAmaral.runtimeconfig.json
+C:\Users\Rob\Desktop\5thsem\csharp\Project2_RobertoAmaral\bin\Debug\net6.0\Project2_RobertoAmaral.dll
+C:\Users\Rob\Desktop\5thsem\csharp\Project2_RobertoAmaral\bin\Debug\net6.0\ref\Project2_RobertoAmaral.dll
+C:\Users\Rob\Desktop\5thsem\csharp\Project2_RobertoAmaral\bin\Debug\net6.0\Project2_RobertoAmaral.pdb
+C:\Users\Rob\Desktop\5thsem\csharp\Project2_RobertoAmaral\obj\Debug\net6.0\Project2_RobertoAmaral.csproj.AssemblyReference.cache
+C:\Users\Rob\Desktop\5thsem\csharp\Project2_RobertoAmaral\obj\Debug\net6.0\Project2_RobertoAmaral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rob\Desktop\5thsem\csharp\Project2_RobertoAmaral\obj\Debug\net6.0\Project2_RobertoAmaral.AssemblyInfoInputs.cache
+C:\Users\Rob\Desktop\5thsem\csharp\Project2_RobertoAmaral\obj\Debug\net6.0\Project2_RobertoAmaral.AssemblyInfo.cs
+C:\Users\Rob\Desktop\5thsem\csharp\Project2_RobertoAmaral\obj\Debug\net6.0\Project2_RobertoAmaral.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Desktop\5thsem\csharp\Project2_RobertoAmaral\obj\Debug\net6.0\Project2_RobertoAmaral.dll
+C:\Users\Rob\Desktop\5thsem\csharp\Project2_RobertoAmaral\obj\Debug\net6.0\ref\Project2_RobertoAmaral.dll
+C:\Users\Rob\Desktop\5thsem\csharp\Project2_RobertoAmaral\obj\Debug\net6.0\Project2_RobertoAmaral.pdb
+C:\Users\Rob\Desktop\5thsem\csharp\Project2_RobertoAmaral\obj\Debug\net6.0\Project2_RobertoAmaral.genruntimeconfig.cache
